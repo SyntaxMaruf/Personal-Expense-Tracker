@@ -116,7 +116,7 @@
 | 💵 | Amount | BDT 0.01 to 1,000,000,000.00, with at most two decimal places. |
 | 📂 | Category | Up to 30 characters; nonblank printable English text. |
 | 📝 | Note | Up to 80 characters; type `None` if no note is needed. |
-| 🚫 | Separator | Do not use `|` in category or note. |
+| 🚫 | Separator | Do not use the pipe symbol in category or note. |
 
 ## 🚀 Run the Project
 🧰 Install a C compiler such as GCC first. VS Code needs a compiler installed separately.
