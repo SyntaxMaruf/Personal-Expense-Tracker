@@ -1,6 +1,8 @@
 # 💰 Income & Expense Tracker in C
 
-> 📒 Track your income, record your expenses, and see where your money goes.
+> 📒 **Track your income, record your expenses, and see where your money goes.**
+
+[![Maruf Billah — Visit My Portfolio](portfolio-banner.svg)](https://syntaxmaruf-portfolio.curlyriver4.chatgpt.site/)
 
 ## 👋 About Me
 🎓 I am **Maruf Billah**, a CSE student at **Daffodil International University**. I created this project during my **1st year, 3rd semester**.
